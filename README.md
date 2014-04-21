@@ -31,6 +31,7 @@ try {
 } catch (err) {
   // handles error from err
 }
+```
 
 ### License
 MIT
